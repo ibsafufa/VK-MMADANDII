@@ -72,7 +72,7 @@
                         </span>
                     </div>
                     <h3 class="text-sm font-bold text-white mb-1.5 group-hover:text-blue-400 transition-colors">Dhaddacha Sivilii 1ffaa</h3>
-                    <p class="text-xs text-neutral-400 mb-5 leading-relaxed">Galmeewwan dhaddachaa sivilii lakk. 1ffaa hordofaa.</p>
+                    <p class="text-xs text-neutral-400 mb-5 leading-relaxed">Galmeewwan dhaddachaa sivilii lakk. 4ffaa hordofaa.</p>
                 </div>
                 <div class="pt-3 border-t border-neutral-800">
                     <a href="***https://meet.google.com/meet/rua-wvoy-muq***" target="\_blank" class="w-full bg-blue-600 hover:bg-blue-500 text-white text-xs font-bold py-2.5 px-3 rounded-xl flex items-center justify-center gap-2 transition-all shadow-md shadow-blue-600/20">
@@ -89,7 +89,7 @@
                         <span class="text-xs text-amber-400 font-bold bg-amber-950/50 px-2.5 py-0.5 rounded-md border border-amber-900/60">Eegamaa Jira</span>
                     </div>
                     <h3 class="text-sm font-bold text-white mb-1.5 group-hover:text-blue-400 transition-colors">Dhaddacha Sivilii 2ffaa</h3>
-                    <p class="text-xs text-neutral-400 mb-5 leading-relaxed">Galmeewwan dhaddachaa sivilii lakk. 2ffaa hordofaa.</p>
+                    <p class="text-xs text-neutral-400 mb-5 leading-relaxed">Galmeewwan dhaddachaa sivilii lakk. 9ffaa hordofaa.</p>
                 </div>
                 <div class="pt-3 border-t border-neutral-800">
                     <a href="***https://meet.google.com/meet/miw-jahm-oqf***" target="\_blank" class="w-full bg-blue-600 hover:bg-blue-500 text-white text-xs font-bold py-2.5 px-3 rounded-xl flex items-center justify-center gap-2 transition-all shadow-md shadow-blue-600/20">
@@ -106,7 +106,7 @@
                         <span class="text-xs text-amber-400 font-bold bg-amber-950/50 px-2.5 py-0.5 rounded-md border border-amber-900/60">Eegamaa Jira</span>
                     </div>
                     <h3 class="text-sm font-bold text-white mb-1.5 group-hover:text-blue-400 transition-colors">Dhaddacha Sivilii 3ffaa</h3>
-                    <p class="text-xs text-neutral-400 mb-5 leading-relaxed">Galmeewwan dhaddachaa sivilii lakk. 3ffaa hordofaa.</p>
+                    <p class="text-xs text-neutral-400 mb-5 leading-relaxed">Galmeewwan dhaddachaa sivilii lakk. 11ffaa hordofaa.</p>
                 </div>
                 <div class="pt-3 border-t border-neutral-800">
                     <a href="***https://meet.google.com/meet/awe-nuhe-nyt***" target="\_blank" class="w-full bg-blue-600 hover:bg-blue-500 text-white text-xs font-bold py-2.5 px-3 rounded-xl flex items-center justify-center gap-2 transition-all shadow-md shadow-blue-600/20">
@@ -123,7 +123,7 @@
                         <span class="text-xs text-amber-400 font-bold bg-amber-950/50 px-2.5 py-0.5 rounded-md border border-amber-900/60">Eegamaa Jira</span>
                     </div>
                     <h3 class="text-sm font-bold text-white mb-1.5 group-hover:text-blue-400 transition-colors">Dhaddacha Sivilii 4ffaa</h3>
-                    <p class="text-xs text-neutral-400 mb-5 leading-relaxed">Galmeewwan dhaddachaa sivilii lakk. 4ffaa hordofaa.</p>
+                    <p class="text-xs text-neutral-400 mb-5 leading-relaxed">Galmeewwan dhaddachaa sivilii lakk. 13ffaa hordofaa.</p>
                 </div>
                 <div class="pt-3 border-t border-neutral-800">
                     <a href="https://meet.google.com/meet/fgv-vxeg-mdb" target="_blank" class="w-full bg-blue-600 hover:bg-blue-500 text-white text-xs font-bold py-2.5 px-3 rounded-xl flex items-center justify-center gap-2 transition-all shadow-md shadow-blue-600/20">
@@ -140,7 +140,7 @@
                         <span class="text-xs text-amber-400 font-bold bg-amber-950/50 px-2.5 py-0.5 rounded-md border border-amber-900/60">Eegamaa Jira</span>
                     </div>
                     <h3 class="text-sm font-bold text-white mb-1.5 group-hover:text-blue-400 transition-colors">Dhaddacha Sivilii 5ffaa</h3>
-                    <p class="text-xs text-neutral-400 mb-5 leading-relaxed">Galmeewwan dhaddachaa sivilii lakk. 5ffaa hordofaa.</p>
+                    <p class="text-xs text-neutral-400 mb-5 leading-relaxed">Galmeewwan dhaddachaa sivilii lakk. 14ffaa hordofaa.</p>
                 </div>
                 <div class="pt-3 border-t border-neutral-800">
                     <a href="***https://meet.google.com/meet/xgn-vrug-znx***" target="\_blank" class="w-full bg-blue-600 hover:bg-blue-500 text-white text-xs font-bold py-2.5 px-3 rounded-xl flex items-center justify-center gap-2 transition-all shadow-md shadow-blue-600/20">
