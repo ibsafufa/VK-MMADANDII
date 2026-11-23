@@ -207,7 +207,7 @@
                         <span class="text-xs text-amber-400 font-bold bg-amber-950/50 px-2.5 py-0.5 rounded-md border border-amber-900/60">Eegamaa Jira</span>
                     </div>
                     <h3 class="text-sm font-bold text-white mb-1.5 group-hover:text-blue-400 transition-colors">Dhaddacha Yakkaa 1ffaa</h3>
-                    <p class="text-xs text-neutral-400 mb-5 leading-relaxed">Galmeewwan dhaddachaa Yakkaa lakk. 1ffaa hordofaa.</p>
+                    <p class="text-xs text-neutral-400 mb-5 leading-relaxed">Galmeewwan dhaddachaa Yakkaa lakk. 8ffaa hordofaa.</p>
                 </div>
                 <div class="pt-3 border-t border-neutral-800">
                     <a href="***https://meet.google.com/meet/mgy-vjyn-jzd***" target="\_blank" class="w-full bg-blue-600 hover:bg-blue-500 text-white text-xs font-bold py-2.5 px-3 rounded-xl flex items-center justify-center gap-2 transition-all shadow-md shadow-blue-600/20">
